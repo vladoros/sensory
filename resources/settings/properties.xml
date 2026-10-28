@@ -1,0 +1,18 @@
+<resources>
+    <properties>
+        <property id="Language" type="number">0</property>
+        <property id="TimeFormat" type="number">0</property>
+        <property id="TileTheme" type="number">0</property>
+        <property id="Typeface" type="number">0</property>
+        <property id="FieldBottom" type="number">0</property>
+        <property id="DateFormat" type="number">0</property>
+        <property id="WeatherEnabled" type="boolean">true</property>
+        <property id="FieldWeather" type="number">0</property>
+        <property id="TempUnit" type="number">0</property>
+        <property id="LocationMode" type="number">0</property>
+        <property id="CityName" type="string"></property>
+        <property id="CityLabel" type="string"></property>
+        <property id="RefreshMinutes" type="number">30</property>
+        <property id="PowerSaving" type="number">0</property>
+    </properties>
+</resources>

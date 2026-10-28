@@ -1,0 +1,16 @@
+<drawables>
+    <bitmap id="WeatherClearDay" filename="weatherclearday.png"/>
+    <bitmap id="WeatherClearNight" filename="weatherclearnight.png"/>
+    <bitmap id="WeatherPartlyDay" filename="weatherpartlyday.png"/>
+    <bitmap id="WeatherPartlyNight" filename="weatherpartlynight.png"/>
+    <bitmap id="WeatherCloudy" filename="weathercloudy.png"/>
+    <bitmap id="WeatherFog" filename="weatherfog.png"/>
+    <bitmap id="WeatherDrizzle" filename="weatherdrizzle.png"/>
+    <bitmap id="WeatherRain" filename="weatherrain.png"/>
+    <bitmap id="WeatherSnow" filename="weathersnow.png"/>
+    <bitmap id="WeatherShowers" filename="weathershowers.png"/>
+    <bitmap id="WeatherThunder" filename="weatherthunder.png"/>
+    <bitmap id="SunriseIcon" filename="sunriseicon.png"/>
+    <bitmap id="SunsetIcon" filename="sunseticon.png"/>
+    <bitmap id="StepsIcon" filename="stepsicon.png"/>
+</drawables>

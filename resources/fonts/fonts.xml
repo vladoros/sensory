@@ -1,0 +1,14 @@
+<fonts>
+    <font id="InterDigits" filename="interdigits.fnt" antialias="true"/>
+    <font id="InterTemp" filename="intertemp.fnt" antialias="true"/>
+    <font id="InterCity" filename="intercity.fnt" antialias="true"/>
+    <font id="InterCond" filename="intercond.fnt" antialias="true"/>
+    <font id="InterSmall" filename="intersmall.fnt" antialias="true"/>
+    <font id="InterBig" filename="interbig.fnt" antialias="true"/>
+    <font id="RobotoDigits" filename="robotodigits.fnt" antialias="true"/>
+    <font id="RobotoTemp" filename="robototemp.fnt" antialias="true"/>
+    <font id="RobotoCity" filename="robotocity.fnt" antialias="true"/>
+    <font id="RobotoCond" filename="robotocond.fnt" antialias="true"/>
+    <font id="RobotoSmall" filename="robotosmall.fnt" antialias="true"/>
+    <font id="RobotoBig" filename="robotobig.fnt" antialias="true"/>
+</fonts>
